@@ -3,7 +3,7 @@ TCP/UDP sockets real-time monitor (SNMP) written in Java as a school assignment
 
 Dependencies (libraries):
 
-SNMP4J - SNMP API
+SNMP4J - SNMP API \\
 JFreeChart
 
 ## Network configuration
